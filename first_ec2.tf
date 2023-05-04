@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAZZFSRYKPGY5YZ5CQ"
-  secret_key = "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"
+  access_key = "AKIAZZ"
+  secret_key = "rqu"
 }
 variable "instance-value" {
   type = list
